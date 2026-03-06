@@ -71,7 +71,9 @@ public class ProductTest extends BaseClass{
 	   {
 		System.out.println("product is not add");
 	   }
+		System.out.println("hi");
 	    cp.getClosemsg().click();
 	    
 	}
 }
+
